@@ -1,6 +1,6 @@
 # 🌱 Smart Soil
 
-<div align="center">
+<div align="left">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -25,7 +25,7 @@
 
 This project is structured as a concise, 1.5-hour hands-on activity suitable for workshops, educational events, or DIY enthusiasts.
 
-<div align="left">
+<div align="center">
   <img src="https://i.ibb.co/Xxh3RkqH/App-Preview.png" alt="Smart Soil App Interface" width="400"/>
   <p><em>Smart Soil mobile interface showing real-time sensor data</em></p>
 </div>
